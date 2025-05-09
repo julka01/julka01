@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahib Julka</h1>
-<h3 align="center">A Machine Learning Researcher</h3>
+<h3 align="center">A lifelong Learner</h3>
 
 ---
 
