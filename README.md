@@ -3,7 +3,7 @@
 
 ---
 
-- I’m currently working on **Developing AI for Specialised Scientific Domains 🔭🩻 **
+- I’m currently working on **Developing AI for Specialised Scientific Domains** 🔭 🩻
 
 ---
 
