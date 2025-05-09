@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/sahib-julka/" target="_blank">
+  <a href="https://www.linkedin.com/in/julka01/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:sahib.julka@uni-passau.de" target="_blank">
@@ -73,6 +73,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="HTML5" />
   </a>
 </p>
+
 ---
 
 <h3 align="left">Support:</h3>
