@@ -11,7 +11,7 @@ Hi, Im JJ.
   <a href="https://www.linkedin.com/in/julka01/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:sahib.julka@uni-passau.de" target="_blank">
+  <a href="mailto:sahib.julka@yahoo.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" height="30" width="30" />
   </a>
 </p>
