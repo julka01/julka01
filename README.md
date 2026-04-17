@@ -1,29 +1,43 @@
 <h1 align="center">Hi, I'm JJ</h1>
+
 <p align="center">
-  Developing AI for specialised scientific domains 🔭 🩻 🩺
+  <b>Developing AI for specialised scientific domains</b> 🔭 🩻 🩺
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&center=true&vCenter=true&width=700&lines=Radiology+AI+%F0%9F%A9%BB;Scientific+Discovery+%F0%9F%94%AD;Clinical+Intelligence+%F0%9F%A9%BA" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me
 
-- I’m currently building **AI for specialised scientific domains** 🔭 🩻 🩺
 - I enjoy working on applied machine learning, scientific modelling, and domain-specific intelligent systems
+- My interests span **music**, **scientific discovery**, and **clinical AI**
+
 
 ---
 
-### Connect With Me
+### Areas I Care About
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/julka01/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30" />
-  </a>
-<a href="mailto:sahib.julka@yahoo.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/new-post.png" alt="Email" height="30" width="30" />
-  </a>
+<p align="center">
+   <img src="https://img.shields.io/badge/Clinical-Intelligence-16A34A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Radiology-AI-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Planetary Science-Scientific%20Discovery-1F2937?style=for-the-badge" />
+ 
 </p>
 
 ---
+
+
+### Connect With Me
+
+| [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30" />](https://www.linkedin.com/in/julka01/) | [<img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="30" height="30" />](mailto:sahib.julka@yahoo.com) |
+|---|---|
+
+
+
+
 
 ### Support My Work
 
@@ -31,12 +45,4 @@
   <a href="https://ko-fi.com/julka01" target="_blank">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="julka01" />
   </a>
-</p>
-
----
-
-### Languages & Tools
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julka01&show_icons=true&locale=en&layout=compact" alt="julka01" />
 </p>
