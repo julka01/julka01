@@ -13,8 +13,8 @@
 ### About Me
 
 - I enjoy working on applied machine learning, scientific modelling, and domain-specific intelligent systems
-- My interests span music, neuroscience, scientific discovery, and clinical AI
-- In my free time, I enjoy playing blues guitar, photographing nature, and exploring my interests as a tinkerer and audiophile
+- My interests span music, neuroscience, planetary science, and clinical AI
+- In my free time, I enjoy playing blues guitar, riding my bike, and exploring my interests as a tinkerer and audiophile
 
 ---
 
