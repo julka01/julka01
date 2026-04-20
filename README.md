@@ -4,10 +4,6 @@
   <b>Developing AI for specialised scientific domains</b> 🔭 🩻 🩺
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&center=true&vCenter=true&width=700&lines=Radiology+AI+%F0%9F%A9%BB;Scientific+Discovery+%F0%9F%94%AD;Clinical+Intelligence+%F0%9F%A9%BA" alt="Typing SVG" />
-</p>
-
 ---
 
 ### About Me
